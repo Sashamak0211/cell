@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { Field } from "../Field/Field";
-import { GameLayout } from './gamelayout';
-import { Information } from "../information/information";
+import { GameLayout } from './Gamelayout';
+import { Information } from "../information/Information";
 const WIN_PATTERN = [
     [0,1,2],
     [3,4,5],

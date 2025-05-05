@@ -1,4 +1,4 @@
-import { Game } from './gamelayout/game/game.jsx'
+import { Game } from './gamelayout/game/Game.jsx'
   
 
   function App() {
